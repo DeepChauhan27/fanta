@@ -320,16 +320,16 @@ button{
       font-size: 4vw;
     }
     .a-can {
-      top: -1vh;
-      left: -8vh;
+      top: -1.1vh;
+      left: -13vh;
       z-index: 2;                     /* Higher: Can stays in FRONT */
       transform: translate(11%);
     }
     .apple {
         z-index: 1;
-        width: 115vw;
-        top: -7vh;
-        left: -16vw;
+        width: 120vw;
+        top: -6vh;
+        left: -19vw;
         bottom: auto;
         transform: none;
     }
